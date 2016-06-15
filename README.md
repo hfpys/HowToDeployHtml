@@ -1,2 +1,6 @@
-访问地址：http://hfpys.github.io/html
-教程：https://segmentfault.com/a/1190000002765287
+部署简单html网页 demo
+
+
+demo地址:http://qianjiahao.github.io/HowToDeployHTML/
+
+教程地址:http://segmentfault.com/a/1190000002765287
